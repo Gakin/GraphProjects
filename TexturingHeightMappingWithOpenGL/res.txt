@@ -1,0 +1,3 @@
+CubeMap Info: Image loaded as an OpenGL texture
+VS compile log: 
+FS compile log: 
